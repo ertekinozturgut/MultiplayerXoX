@@ -1,0 +1,4 @@
+#Sat Feb 01 02:22:03 EET 2020
+base.0=C\:\\Users\\Ertekin\\Documents\\GitHub\\MultiplayerXoX\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

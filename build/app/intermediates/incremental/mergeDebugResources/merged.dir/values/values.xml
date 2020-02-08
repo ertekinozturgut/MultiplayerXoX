@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#0044AA</color>
+    <color name="black">#111111</color>
+    <color name="bluedark">#2F6699</color>
+    <color name="bluelight">#449DEF</color>
+    <color name="greendark">#53933F</color>
+    <color name="greenlight">#70C656</color>
+    <color name="grey">#7A7A7A</color>
+    <color name="orangedark">#BB6008</color>
+    <color name="orangelight">#F3AE1B</color>
+    <color name="white">#FFFFFF</color>
+    <style name="LaunchTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <!-- Show a splash screen on the activity. Automatically removed when
+             Flutter draws its first frame -->
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+</resources>

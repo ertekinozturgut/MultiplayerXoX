@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Ertekin\\Documents\\GitHub\\MultiplayerXoX\\build\\app\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ertekin\\Documents\\GitHub\\MultiplayerXoX\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "347"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "486",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "778"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ertekin\\Documents\\GitHub\\MultiplayerXoX\\android\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,11,6,5,8,7,3,10,9,2",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "134,446,223,179,311,266,95,401,355,55",
+                        "endColumns": "44,39,42,43,43,44,38,44,45,39",
+                        "endOffsets": "174,481,261,218,350,306,129,441,396,90"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,140,183,227,271,316,355,400,446",
+                        "endColumns": "44,39,42,43,43,44,38,44,45,39",
+                        "endOffsets": "95,135,178,222,266,311,350,395,441,481"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+com.example.tic_tac
+color background
+color black
+color bluedark
+color bluelight
+color greendark
+color greenlight
+color grey
+color orangedark
+color orangelight
+color white
+drawable launch_background
+mipmap ic_launcher
+mipmap logo
+style LaunchTheme
